@@ -1,6 +1,7 @@
 {
   "name": "@ai-capabilities-suite/mcp-core",
   "version": "0.0.1",
+  "packageManager": "yarn@4.12.0",
   "description": "Shared infrastructure for AI Capability Extension Suite MCP servers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
